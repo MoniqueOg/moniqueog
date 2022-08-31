@@ -2,7 +2,7 @@
 
 - 🔭 Currently learning DevOps with Black Codher Bootcamp
 - 🌱 Seeking to apply my coding knowledge to real world situations
-- 🤔 I’m looking for help with AWS Cloud Computing
+- 🤔 I’m looking for help with Cloud Computing Services
 
 <!--
 **MoniqueOg/moniqueog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
