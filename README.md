@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently learning DevOps with Black Codher Bootcamp
+- 🔭 Currently learning Full Stack Development with Black Codher Bootcamp
 - 🌱 Seeking to apply my coding knowledge to real world situations
 - 🤔 I’m looking for help with Cloud Computing Services
 
