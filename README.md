@@ -1,29 +1,29 @@
 
-# Monique Here!
+# Monique Here! 👋
 
 <img src="https://static.wikia.nocookie.net/simpsons/images/3/38/Rayshelle_Peyton.png/revision/latest/top-crop/width/360/height/360?cb=20220425003638" href="Rayshelle Peyton Simpson" width="150"> 
 
 
 ## Bio:
-my name is monique i am unique (change these in more details)
+Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
 
 ## Education 🎓
-- Niyo Group's Black Codher - Full Stack Developer Bootcamp
-- North London's Dental Centre - Dental Nursing
-- Solihull College - Mechanical Engineering
+- Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
+- Introduction to Web Development. _Code First Girls_
+- Dental Nursing _North London's Dental Centre_
+- Mechanical Engineering _Solihull College_
 - Hillcrest School and Computing College
 
-## Interests
+## Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travel
+- Travelling
 - Crypto and AI Trading
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My favourite website 💻
-**[Astro-Seek](https://astro-seek.com)** - _A website that enables to you find your birth-chart and astrological transits that can potentially help predict both personal and world events._ 
-
+**[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
 
 ### Top 5 TV shows/ movies 🍿
 1. Miranda
@@ -32,12 +32,13 @@ my name is monique i am unique (change these in more details)
 4. Altered Carbon
 5. The Simpsons
 
-### What I would like to achieve💫
-- Be able to code proficiently 
-- To gain a career within the tech industry and utilise my newfound skills
-- Be confident in new environments
-- Upgrade my digital footprint
-- Network with more friendly people
+###  Task List of what i want to achieve during the bootcamp 🎯
+- [ ] Understand Object Oriented Programming
+- [ ] Create web application using React.js
+- [ ] learn to programme using python
+- [ ] Master Data Structure and Algorithm
+- [ ] Create APIs
+- [ ] Get a job as Junior Software Developer
 
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
