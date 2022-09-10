@@ -17,12 +17,12 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 ## Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travelling
+- Travelling <img src="https://media.giphy.com/media/Zwuf5X4Cw9u5tFTiiz/giphy.gif" width="20"/></li>
 - Crypto and AI Trading
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
-### My favourite website 💻
+### My favourite website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 **[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
 
 ### Top 5 TV shows/ movies 🍿
@@ -32,7 +32,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 4. Altered Carbon
 5. The Simpsons
 
-###  Task List of what i want to achieve during the bootcamp 🎯
+###  Task List: What I will achieve during the bootcamp 🎯
 - [ ] Understand Object Oriented Programming
 - [ ] Create web application using React.js
 - [ ] learn to programme using python
