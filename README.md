@@ -23,7 +23,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My favourite website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
-**[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
+**[Astro-Seek](https://astro-seek.com)** - _Enables you to find birth-charts and astrological transits._
 
 ### Top 5 TV shows/ movies 🍿
 1. Miranda
@@ -42,12 +42,11 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
-<sup>  Black Codher Student
- | Monique Ogunkeyede </sup>
+<sub>  Black Codher Student
+ | Monique Ogunkeyede </sub>
 
 [^1]: My references
 
 [^2]: https://docs.github.com/en
 [^3]: https://emojis.wiki/ <!--for brown tone-->
 [^4]: https://simpsons.fandom.com/wiki/Rayshelle_Peyton 
-
