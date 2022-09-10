@@ -5,7 +5,7 @@
 
 
 ## Bio:
-Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet🌍.
+Monique decided to change her career path in 2020 . Monique is resilient and persistent. She is working to develop her skills in a new field she has no experience in. She successfully completed her Introduction to Web Development Course at the Code First Girls, where she worked on different projects with different web technologies. Monique applied for a 30 weeks bootcamp by CBF & Niyo Group. In her free time, she likes trading Stocks & Crypto currencies, exploring different cities around UK, researching astrology, and delving intoprocesses to develop technologies and products that help improve our lives and the health of our planet <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
 
 ## Education 🎓
 - Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
@@ -17,7 +17,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 ## Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travelling <img src="https://media2.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif?cid=ecf05e47qn843akvvzfxwnzmnygmsnlnxbonwpmlgvpif873&rid=giphy.gif&ct=g" width="20"/></li>
+- Travelling
 - Crypto and AI Trading
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
