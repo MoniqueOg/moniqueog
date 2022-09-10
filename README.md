@@ -17,7 +17,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 ## Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travelling <img src="https://media.giphy.com/media/Zwuf5X4Cw9u5tFTiiz/giphy.gif" width="20"/></li>
+- Travelling <img src="https://media2.giphy.com/media/AErExHJVxRbkm5hPkB/giphy.gif?cid=ecf05e47qn843akvvzfxwnzmnygmsnlnxbonwpmlgvpif873&rid=giphy.gif&ct=g" width="20"/></li>
 - Crypto and AI Trading
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
