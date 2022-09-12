@@ -22,17 +22,17 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
-### My favourite website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
+### My Favourite Website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 **[Astro-Seek](https://astro-seek.com)** - _Enables you to find birth-charts and astrological transits._
 
-### Top 5 TV shows/ movies 🍿
+### Top 5 TV Shows/ Movies 🍿
 1. Miranda
 2. Inside no.9
 3. The Matrix
 4. Altered Carbon
 5. The Simpsons
 
-###  Task List: What I will achieve during the bootcamp 🎯
+###  Task List: What I will Achieve during the Bootcamp 🎯
 - [ ] Understand Object Oriented Programming
 - [ ] Create web application using React.js
 - [ ] learn to programme using python
