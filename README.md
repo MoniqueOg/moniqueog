@@ -1,7 +1,7 @@
 
-# Monique Here! 👋
+# Hi, Monique Here! 👋🏾
 
-<img src="https://static.wikia.nocookie.net/simpsons/images/3/38/Rayshelle_Peyton.png/revision/latest/top-crop/width/360/height/360?cb=20220425003638" href="Rayshelle Peyton Simpson" width="150"> 
+<a href="https://github.com/sponsors/M0nica"><img align="top" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 
 ## Bio:
@@ -50,3 +50,4 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 [^2]: https://docs.github.com/en
 [^3]: https://emojis.wiki/ <!--for brown tone-->
 [^4]: https://simpsons.fandom.com/wiki/Rayshelle_Peyton 
+[^5]: https://https://github.com/m0nica
