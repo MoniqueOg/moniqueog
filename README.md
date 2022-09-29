@@ -40,6 +40,8 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - [ ] Create APIs
 - [ ] Get a job as Junior Software Developer
 
+<!--Add a section for social medias such as Linkedin💼 etc-->
+
 [Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
 <sup>  Black Codher Student
