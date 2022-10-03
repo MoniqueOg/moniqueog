@@ -1,7 +1,7 @@
 
 # Hi, Monique Here! 👋🏾👩🏾‍💻
 
-<a href="https://github.com/sponsors/M0nica"><img align="top" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<!--<a href="add link to something i want">--><img align="top" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 
 ## Bio:
