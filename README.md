@@ -23,7 +23,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
 
 ### My Favourite Website <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
-**[Web3 is Going Just Great](https://astro-seek.com](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
+**[Web3 is Going Just Great](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
 
 ### Top 5 TV Shows/ Movies 🍿
 1. Miranda
