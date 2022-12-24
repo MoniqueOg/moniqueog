@@ -46,7 +46,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - Linkedin💼 
 - Telegram: m833q -->
 
-[Now you know me a little better. See what I've learnt so far!](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
+[Now you know me a little better. See what I've learnt so far!🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
 <sup>  Black Codher Student
  | Monique Ogunkeyede </sup>
