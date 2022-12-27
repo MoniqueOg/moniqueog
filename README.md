@@ -1,5 +1,5 @@
 
-## console.log('Hello World!') 👋🏾
+## console.log('Hello World!') <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <a href="https://t.me/m28n8que" target=_blank ><img align="top" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
