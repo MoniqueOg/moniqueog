@@ -37,7 +37,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - [ ] Make friends & network in the Industry😎
 - [x] Understand Object Oriented Programming
 - [x] Create web application using React.js
-- [ ] Learn to programme using python
+- [ ] Learn Cloud Computing
 - [ ] Master Data Structure and Algorithm
 - [x] Create APIs
 - [ ] Work as Junior Software Developer 👩🏾‍💻
