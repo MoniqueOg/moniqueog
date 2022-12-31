@@ -40,7 +40,7 @@ Monique decided to change her career path in 2020 . Monique is resilient and per
 - [ ] Learn Cloud Computing
 - [ ] Master Data Structure and Algorithm
 - [x] Create APIs
-- [ ] Work as Junior Software Developer 👩🏾‍💻
+- [ ] Secure a role as a Junior Developer 👩🏾‍💻
 
 <!--### Reach me 
 - Linkedin💼 
