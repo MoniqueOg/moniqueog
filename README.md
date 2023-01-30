@@ -38,7 +38,7 @@ Monique decided to change her career path in 2021. Monique is resilient and pers
 - [x] Understand Object Oriented Programming
 - [x] Create web application using React.js
 - [x] Learn Cloud Computing
-- [ ] Master Data Structure and Algorithm
+- [ ] Master Data Structure and Algorithms
 - [x] Create APIs
 - [ ] Secure a role within Tech 👩🏾‍💻
 - [ ] Travel Extensively🌴
