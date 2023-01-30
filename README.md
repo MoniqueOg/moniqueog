@@ -10,7 +10,7 @@ Monique decided to change her career path in 2021. Monique is resilient and pers
 - Full Stack developer Bootcamp. Daly Cohort _CBF x Niyo Group_
 - Introduction to Web Development. _Code First Girls_
 - Dental Nursing _North London's Dental Centre_
-- Mechanical Engineering _Solihull College_
+- Motor Vehicle _Solihull College & University Centre_
 - Hillcrest School and Computing College
 
 ### Interests 💥
