@@ -36,7 +36,7 @@ Monique decided to change her career path in 2021. Monique is resilient and pers
 ###  Task List: What I will Achieve during the Bootcamp 🎯
 - [ ] Make friends & network in the Industry😎
 - [x] Understand Object Oriented Programming
-- [x] Create web application using React.js
+- [x] Create Web Application ustilising Node.js and React
 - [x] Learn Cloud Computing
 - [ ] Master Data Structure and Algorithms
 - [x] Create APIs
