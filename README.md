@@ -16,8 +16,8 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 ### Interests 💥
 - Astrology
 - Alkaline food blogs
-- Travelling
-- Crypto and AI Trading
+- Travel
+- Trading
 - Numerology #GG33🐉
 - Dolly Parton
 - Medical Aesthetics/ Biotechnology🧖🏾‍♀️
