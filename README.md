@@ -10,8 +10,7 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 - Full Stack developer Bootcamp. Daly Cohort _CBF x Niyo Group_
 - Introduction to Web Development. _Code First Girls_
 - Dental Nursing _North London's Dental Centre_
-- Motor Vehicle _Solihull College & University Centre_
-- Hillcrest School and Computing College
+- Mechanical Engineering _Solihull College & University Centre_
 
 ### Interests 💥
 - Astrology
