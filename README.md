@@ -48,7 +48,7 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 - Linkedin💼 
 - Telegram: m833q -->
 
-<sup> Now you know me a little better. See what I've learnt so far! [🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)</sup> 
+<sup> Now you know me a little better. Press the magnifiying glass to see what I've learnt so far! [🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)</sup> 
 
 <sup>  AWS re/Start Student
  | <a href=https://www.linkedin.com/in/monique-o-7538b41b8/> Monique Ogunkeyede</a> </sup>
