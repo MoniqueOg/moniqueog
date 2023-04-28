@@ -50,7 +50,7 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 
 [Now you know me a little better. See what I've learnt so far!🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)
 
-<sup>  Black Codher Student
+<sup>  AWS re/Start student
  | <a href=https://www.linkedin.com/in/monique-o-7538b41b8/> Monique Ogunkeyede</a> </sup>
 
 [^1]: My references
