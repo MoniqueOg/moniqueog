@@ -34,11 +34,11 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 5. The Simpsons
 
 ###  Task List: What I will Achieve during the Bootcamp 🎯
-- [x] Make everlasting friendships & network within the Industry😎
+- [ ] Make everlasting friendships & network within the Industry😎
 - [x] Understand Object Oriented Programming
 - [x] Create Web Application ustilising Node.js and React
-- [x] Learn Cloud Computing
-- [x] Master Data Structure and Algorithms
+- [ ] Learn Solutions Architecture
+- [ ] Master Data Structure and Algorithms
 - [x] Create APIs
 - [ ] Secure a role within Tech 👩🏾‍💻
 - [ ] Travel Extensively🌴
