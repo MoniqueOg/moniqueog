@@ -1,10 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=5030&pause=1000&width=480&lines=console.log(%22Hello+world%2C+Monique+Here!%22))
-
-
 <a href="https://t.me/m28n8que" target=_blank ><img src="https://res.cloudinary.com/snyk/image/upload/v1620054318/wordpress-sync/blog-banner-github-scanning.png"></a>
 
 ## Bio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 Monique is an ambitious and determined individual who decided to take a leap of faith in 2021 by changing her career path. She has no prior experience in the field she chose, but that didn't stop her from taking on the challenge. To develop her skills, she enrolled onto the 'Introduction to Web Development' Course with Code First Girls, where she collaborated in a team of four to create a travel blog. Monique then proceeded to apply for a 30-week Full-stack development bootcamp by CBF & Niyo Group, working on various projects utilising different programming languages of which includ: HTML, CSS and JavaScript Node.js on the server-side and REACT via front end, MongoDB databases. Later going on to complete her AWS Cloud Practitioner certification learning AWS Workspace, DynamoDB and Python. In her free time, she has an interest in investing, exploring cities around the UK, astrology, and the creation of innovative technologies and products that can help improve our lives and the health of our planet <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
+
 
 ### Education 🎓
 - Amazon Web Services (AWS). _Westminister Educational Institute_
@@ -35,11 +34,11 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 5. The Simpsons
 
 ###  Task List: What I will Achieve during the Bootcamp 🎯
-- [ ] Make friends & network in the Industry😎
+- [x] Make everlasting friendships & network within the Industry😎
 - [x] Understand Object Oriented Programming
 - [x] Create Web Application ustilising Node.js and React
 - [x] Learn Cloud Computing
-- [ ] Master Data Structure and Algorithms
+- [x] Master Data Structure and Algorithms
 - [x] Create APIs
 - [ ] Secure a role within Tech 👩🏾‍💻
 - [ ] Travel Extensively🌴
