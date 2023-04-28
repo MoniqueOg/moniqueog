@@ -13,13 +13,14 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 - Mechanical Engineering _Solihull College & University Centre_
 
 ### Interests 💥
-- Astrology
-- Alkaline food blogs
+- Growth
 - Travel
-- Trading
-- Numerology #GG33🐉
-- Dolly Parton
-- Medical Aesthetics/ Biotechnology🧖🏾‍♀️
+- Investing 🖼️
+- Vehicle Mechanics
+- Numerology 
+- Gematria
+- Dolly Parton 👱‍♀️🪕
+
 
 ### My Favourite Sites <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 - **[Web3 is Going Just Great](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
