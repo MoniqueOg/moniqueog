@@ -40,6 +40,7 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 - [ ] Learn Solutions Architecture
 - [ ] Master Data Structure and Algorithms
 - [x] Create APIs
+- [x] Become a Cloud Practioner
 - [ ] Secure a role within Tech 👩🏾‍💻
 - [ ] Travel Extensively🌴
 
