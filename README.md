@@ -6,7 +6,7 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 
 
 ### Education 🎓
-- Artificial Intelligence for Business - Intermediate. _Digital Skills Academy with MKAI_
+- Artificial Intelligence for Business - Intermediate. _Digital Skills Academy x MKAI_
 - Amazon Web Services (AWS). _Westminister Educational Institute_
 - Full Stack Development Bootcamp. Daly Cohort _CBF x Niyo Group_
 - Introduction to Web Development. _Code First Girls_
