@@ -38,10 +38,10 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 - [x] Make everlasting friendships & network within the Industry😎
 - [x] Understand Object Oriented Programming
 - [x] Create Web Application ustilising Node.js and React
-- [x] Become a Cloud Practioner ☁️
+- [x] Become Cloud Certified ☁️
 - [ ] Obtain Solutions Architect Certification
 - [ ] Master Data Structure and Algorithms
-- [x] Create APIs
+- [x] Build and render APIs
 - [ ] Secure a role within Tech 👩🏾‍💻
 - [x] Travel Extensively🌴
 
