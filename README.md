@@ -6,8 +6,9 @@ Monique is an ambitious and determined individual who decided to take a leap of 
 
 
 ### Education 🎓
+- Artificial Intelligence for Business with MKAI. _Digital Skills Academy_
 - Amazon Web Services (AWS). _Westminister Educational Institute_
-- Full Stack developer Bootcamp. Daly Cohort _CBF x Niyo Group_
+- Full Stack Development Bootcamp. Daly Cohort _CBF x Niyo Group_
 - Introduction to Web Development. _Code First Girls_
 - Dental Nursing _North London's Dental Centre_
 - Mechanical Engineering _Solihull College & University Centre_
