@@ -29,7 +29,7 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 - Investing 🖼️
 - Vehicle Mechanics
 - Numerology 
-- Gematria
+- Cooking
 - Dolly Parton 👱‍♀️🪕
 
 
