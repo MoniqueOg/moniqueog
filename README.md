@@ -2,7 +2,17 @@
 <a href="https://t.me/m28n8que" target=_blank ><img src="https://res.cloudinary.com/snyk/image/upload/v1620054318/wordpress-sync/blog-banner-github-scanning.png"></a>
 
 ## Bio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-Monique is an ambitious and determined individual who decided to take a leap of faith in 2021 by changing her career path. She has no prior experience in the field she chose, but that didn't stop her from taking on the challenge. To develop her skills, she enrolled onto the 'Introduction to Web Development' Course with Code First Girls, where she collaborated in a team of four to create a travel blog. Monique then proceeded to apply for a 30-week Full-stack development bootcamp by CBF & Niyo Group, working on various projects utilising different programming languages of which includ: HTML, CSS and JavaScript Node.js on the server-side and REACT via front end, MongoDB databases. Later going on to complete her AWS Cloud Practitioner certification learning various AWS Services, database DynamoDB and Python code. In her free time, she has an interest in investing, exploring different countries meeting finding friends along the way, astrology, and the creation of innovative technologies and products that can help improve our lives and the health of our planet <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
+👩‍💻 I am Monique, an ambitious and determined individual who took a leap of faith in 2021 by changing my career path. Despite having no prior experience in my chosen field, I didn't let that stop me from embracing the challenge. 💪
+
+🎓 To develop my skills, I enrolled in the 'Introduction to Web Development' Course with Code First Girls, where I collaborated with a team of four to create a captivating travel blog. 🌍
+
+💻 Building on that experience, I then applied for a 30-week Full-stack development bootcamp offered by CBF & Niyo Group. Throughout the program, I worked on various projects, utilizing different programming languages such as HTML, CSS, JavaScript, Node.js on the server-side, and REACT on the front end, along with MongoDB databases. 🚀
+
+🔑 Furthering my knowledge, I successfully completed my AWS Cloud Practitioner certification, gaining a deep understanding of various AWS Services, database DynamoDB, and Python code. 🌩️
+
+⏳ During my free time, I have a keen interest in investing 💰, exploring different countries 🌎, making new friends along the way, diving into astrology ♋, and working on innovative technologies and products that can enhance our lives and contribute to the health of our planet. 🌱
+
+My journey is a testament to my unwavering determination, adaptability, and thirst for knowledge. I embrace challenges head-on and strive for personal growth while aiming to make a meaningful impact through technology. ✨ <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
 
 
 ### Education 🎓
