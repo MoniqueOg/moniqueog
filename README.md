@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=19&duration=5030&pause=1000&width=480&lines=console.log(%22Hello+world%2C+Monique+Here!%22))
+
 <a href="https://t.me/m28n8que" target=_blank ><img src="https://res.cloudinary.com/snyk/image/upload/v1620054318/wordpress-sync/blog-banner-github-scanning.png"></a>
 
 ## Bio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -14,6 +15,7 @@
 
 My journey is a testament to my unwavering determination, adaptability, and thirst for knowledge. I embrace challenges head-on and strive for personal growth while aiming to make a meaningful impact through technology. ✨ <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
 
+- 📍London, UK | 💂☕🫖☔
 
 ### Education 🎓
 - Artificial Intelligence for Business - Intermediate. _Digital Skills Academy x MKAI_
