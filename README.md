@@ -37,7 +37,7 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 
 ### My Favourite Sites <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 - **[Web3 is Going Just Great](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
-- **[Astro-Seek](https://astro-seek.com)** - _Enables to you find your birth-chart and astrological transits._
+- **[Wellness-Plus](https://shop-wellness-plus.myshopify.com/)** - _A store providing wellness essentials._
 
 ### Top 5 TV Shows/ Movies 🍿
 1. Miranda
@@ -63,7 +63,7 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 
 <sup> Now you know me a little better. Press the magnifiying glass to see what I've learnt so far! [🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)</sup> 
 
-<sup> Apprentice @ Apple x Makers 
+<sup> *[Insert role here]*
  | <a href=https://www.linkedin.com/in/monique-o-7538b41b8/> Monique Ogunkeyede</a> </sup>
 
 [^1]: My references
