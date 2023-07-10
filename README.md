@@ -3,7 +3,7 @@
 <a href="https://t.me/m28n8que" target=_blank ><img src="https://res.cloudinary.com/snyk/image/upload/v1620054318/wordpress-sync/blog-banner-github-scanning.png"></a>
 
 ## Bio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-👩‍💻 I am Monique, an ambitious and determined individual who took a leap of faith in 2021 by changing my career path. Despite having no prior experience in my chosen field, I didn't let that stop me from embracing the challenge. 💪
+👩🏿‍💻 An ambitious and determined individual who took a leap of faith in 2021 by changing my career path. Despite having no prior experience in my chosen field, I didn't let that stop me from embracing the challenge. 💪🏿
 
 🎓 To develop my skills, I enrolled in the 'Introduction to Web Development' Course with Code First Girls, where I collaborated with a team of four to create a captivating travel blog. 🌍
 
@@ -15,7 +15,7 @@
 
 My journey is a testament to my unwavering determination, adaptability, and thirst for knowledge. I embrace challenges head-on and strive for personal growth while aiming to make a meaningful impact through technology. ✨ <img src="https://media4.giphy.com/media/UOdoMz3baCENO/giphy.gif?cid=ecf05e47cyqy7oztmuuv0w3trvyeyfbh04d8plo9wywcffw4&rid=giphy.gif&ct=g" width="30"/></li>.
 
-- 📍London, UK | 💂☕🫖☔
+- 📍London, UK | 💂🏻‍♂️☕🫖☔
 
 ### Education 🎓
 - Artificial Intelligence for Business - Intermediate. _Digital Skills Academy x MKAI_
@@ -26,13 +26,13 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 - Mechanical Engineering _Solihull College & University Centre_
 
 ### Interests 💥
-- Growth
+- Violin
 - Travel
 - Investing 🖼️
-- Vehicle Mechanics
+- Pilates
 - Numerology 
 - Cooking
-- Dolly Parton 👱‍♀️🪕
+- Dolly Parton 👱🏻‍♀️🪕
 
 
 ### My Favourite Sites <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
