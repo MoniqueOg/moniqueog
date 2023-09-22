@@ -37,7 +37,8 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 
 ### My Favourite Sites <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 - **[Web3 is Going Just Great](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
-- **[Wellness-Plus](https://shop-wellness-plus.myshopify.com/)** - _A store providing Wellness Essentials._
+- **[Pet Shop Plus 🐾](https://shop-wellness-plus.myshopify.com/)** - _A store providing essential Pet Supplies._
+- **[Universal Manes 💇🏾‍♀️](https://universalmanes.com/)** - _A store providing Hair Products._
 
 ### Top 5 TV Shows/ Movies 🍿
 1. Miranda
