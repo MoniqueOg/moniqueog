@@ -64,7 +64,7 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 
 <sup> Now you know me a little better. Press the magnifiying glass to see what I've learnt so far! [🔎](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-MoniqueOg/blob/main/fundamentals.md)</sup> 
 
-<sup> *[Insert role here]*
+<sup> *[Insert tech role here]* / Entrepreneur
  | <a href=https://www.linkedin.com/in/monique-o-7538b41b8/> Monique Ogunkeyede</a> </sup>
 
 [^1]: My references
