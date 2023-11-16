@@ -18,8 +18,9 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 - 📍London, UK | 💂🏻‍♂️☕🫖☔
 
 ### Education 🎓
+- Cybersecurity - Lvl 2. - _LMP Education_
 - Artificial Intelligence for Business - Intermediate. _Digital Skills Academy x MKAI_
-- Amazon Web Services (AWS). _Westminister Educational Institute_
+- Cloud Practitioner - Amazon Web Services (AWS). _Westminister Educational Institute_
 - Full Stack Development Bootcamp. Daly Cohort _CBF x Niyo Group_
 - Introduction to Web Development. _Code First Girls_
 - Dental Nursing _North London's Dental Centre_
