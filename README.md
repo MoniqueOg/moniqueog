@@ -29,12 +29,10 @@ My journey is a testament to my unwavering determination, adaptability, and thir
 ### Interests 💥
 - Violin
 - Travel
-- Investing 🖼️
+- Dolly Parton 👱🏻‍♀️🪕 
+- Pets 🐸
 - Pilates
 - Numerology 
-- Cooking
-- Dolly Parton 👱🏻‍♀️🪕
-
 
 ### My Favourite Sites <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="27"/></h3>
 - **[Web3 is Going Just Great](https://web3isgoinggreat.com/)** - _A timeline recording only some of the many disasters happening in crypto, decentralized finance, NFTs, and other blockchain-based projects._
